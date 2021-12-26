@@ -15,10 +15,9 @@ Frameworks: .NET, Angular
 Languages: JavaScript, TypeScript, HTML, CSS, C#
 Learning: C++, Python
 -------------------------
-University: [BMSTU](https://www.bmstu.ru/)
+University: BMSTU
 Course: 1
 Faculty: Computer Science and Сontrol Systems
-Homeworks repo: [qqq-Homeworks](https://github.com/organizations/qqq-Homeworks)
 -------------------------
 Discord: пипуджек#1420
 Telegram/VK: @qqqq4u
