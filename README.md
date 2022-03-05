@@ -13,7 +13,7 @@ Kernel: 20.6.0
 Location: Moscow, Russia
 Frameworks: .NET, Angular
 Languages: JavaScript, TypeScript, HTML, CSS, C#
-Learning: C++, Python
+Learning: GO, C++, Python
 -------------------------
 University: BMSTU
 Course: 1
