@@ -5,7 +5,7 @@
 <img align="left" src="https://i.pinimg.com/originals/6c/38/82/6c3882e073c1561915bbe3c92f712e5e.png" alt="That's me" width="320" /> 
 
 ```csharp
-qqqq4u@github
+qqq4u@github
 -------------------------
 OS: macOS 11.5.2 20G95 arm64
 Shell: zsh 5.8
