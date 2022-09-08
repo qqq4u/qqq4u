@@ -16,11 +16,11 @@ Languages: JavaScript, TypeScript, HTML, CSS, C#
 Learning: GO, C++, Python
 -------------------------
 University: BMSTU
-Course: 1
+Course: 2
 Faculty: Computer Science and Сontrol Systems
 -------------------------
 Discord: пипуджек#1420
-Telegram/VK: @qqqq4u
+Telegram: @qqqq4u
 ```
 <p align="center">
   &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
