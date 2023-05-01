@@ -12,8 +12,8 @@ Shell: zsh 5.8
 Kernel: 20.6.0
 Location: Moscow, Russia
 Frameworks: .NET, Angular
-Languages: JavaScript, TypeScript, HTML, CSS, C#
-Learning: GO, C++, Python
+Languages: JavaScript, TypeScript, HTML, CSS, C#, Golang, C++, Python
+Learning: Lua, Rust
 -------------------------
 University: BMSTU
 Course: 2
