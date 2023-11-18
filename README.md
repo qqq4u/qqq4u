@@ -16,7 +16,7 @@ Languages: JavaScript, TypeScript, HTML, CSS, C#, Golang, C++, Python
 Learning: Lua, Rust
 -------------------------
 University: BMSTU
-Course: 2
+Course: 3
 Faculty: Computer Science and Сontrol Systems
 -------------------------
 Discord: пипуджек#1420
